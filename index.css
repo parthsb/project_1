@@ -1,0 +1,142 @@
+.logo{
+    padding: 24px 32px;
+}
+.nav-link{
+    margin: 0 16px;
+}
+
+.hero{
+    background-color: lightgray;
+    height: 660px;
+    padding: 64px;
+    width: 100%;
+   
+    
+}
+
+
+.col-md-6{
+    text-decoration: solid black ;
+
+
+   
+}
+.col-md-6 h1{
+    font-size: 70px;
+    font-weight: bold;
+    padding: 30px;
+}
+.col-md-6 p{
+    font-size: 25px;
+    padding: 30px;
+}
+
+.col-md-6 button{
+    color: white;
+    background-color: rgb(27, 49, 50);
+    padding: 10px 180px;
+    margin-left: 30px;
+    
+    
+    /* margin-top: 40px; */
+}
+.image2{
+    margin-left: 60px;
+    padding-top: 40px;
+}
+
+.con h1{
+    padding-left: 70px;
+    font-weight: bold;
+}
+.con p{
+    padding-left: 70px;
+    
+}
+/* .image3{
+    margin-left: 10px;
+} */
+
+
+img{
+    display: inline-block;
+}
+
+.text{
+    display: inline;
+    padding-bottom: 150px;
+}
+
+.row{
+    padding: 30px;
+    
+}
+.co h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 10px;
+}
+.com{
+    background-color: lightgray;
+}
+.co {
+    /* background-color: #343a40; */
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.card {
+    background: white;
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s;
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.card:hover {
+    transform: translateY(-5px);
+}
+.card img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+.card-content {
+    background: white;
+    flex-grow: 1;
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.contt h1{
+text-align: center;
+}
+.contt{
+    background-color: white;
+}
+.col-6 p{
+    padding-left: 0px;
+}
+.textt{
+    padding-bottom: 110px;
+}
+footer{
+    padding-left: 20px;
+}
+.texx p{
+    padding: 2px;
+}
+
+
+
+
+
+
